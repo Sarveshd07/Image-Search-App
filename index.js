@@ -52,3 +52,5 @@ formEl.addEventListener("submit", (event) => {
 showMoreButtonEl.addEventListener("click", () => {
   searchImages();
 });
+
+//Test commit
